@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Calculator</string>
+    <string name="sub">-</string>
+    <string name="add">+</string>
+    <string name="mul">*</string>
+    <string name="div">/</string>
+    <string name="enter_second_value">Enter Second Value</string>
+    <string name="enter_first_value">Enter First Value</string>
+    <string name="result">Result</string>
+    <string name="todo">TODO</string>
+</resources>
